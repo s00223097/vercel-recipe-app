@@ -12,7 +12,7 @@ export default async function handler(req, res) {
       offset: "0",
     },
     headers: {
-      "x-api-key": "27049ae142cd469eb4ebb931a1e345a8",
+      "x-api-key": "",
     },
   };
 
